@@ -1,0 +1,32 @@
+.styleBg{
+    background-image: url("../public/img/glassesImage/background.jpg");
+    height: 900px;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    
+}
+.modelSize{
+    text-align: center;
+    position: relative;
+    
+}
+
+.listGlasses{
+    margin-top: 270px!important;
+    margin-left: 170px!important;
+    background-color: white;
+    width: 800px;
+    height: 200px;
+    padding: 20px;
+    
+    
+}
+
+.modelSize .setGlass{
+    position: absolute;
+    left: 43%;
+    top: 35%;
+    
+}
+
